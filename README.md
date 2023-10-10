@@ -12,7 +12,7 @@ ultrasónico de alta precisión, de los cuales se obtendrán los datos en tiempo
 
 
 ## Frameworks used 💻
-- NeatBeans 
+- Apache NeatBeans 18
   
 
 ## Video tutorial  ▶️
